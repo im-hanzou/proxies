@@ -1,2 +1,3 @@
-# proxies
-80k proxies list updated recentrly | Disadvantage: mixed types.
+# To scrape > https://github.com/
+
+only 2k rn, I will update the list later
